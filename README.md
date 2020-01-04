@@ -9,3 +9,9 @@ Add `bin` directory to `path` env
 Add `JAVA_HOME` environment variable to the install location of the JDK
 
 Install [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
+
+## Compile/Run
+
+`javac ./Example.java`
+
+`java Example`
